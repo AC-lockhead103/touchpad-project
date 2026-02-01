@@ -10,6 +10,5 @@ config ZMK_INPUT_MOUSE_PS2
     default y
 
 
-
-
 endif
+
