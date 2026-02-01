@@ -9,7 +9,7 @@ config ZMK_MOUSE
 config ZMK_INPUT_MOUSE_PS2
     default y
 
-config ZMK_USB
-    default y
+
+
 
 endif
